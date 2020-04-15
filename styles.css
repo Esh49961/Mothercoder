@@ -1,0 +1,47 @@
+body{
+  background-color: pink;
+  margin: 0;
+  Padding: 0;
+}
+
+header{
+  text-align:center;
+
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.jumbotron{
+  background-color: pink;
+  color: white;
+}
+
+li {
+  display: inline;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  }
+
+
+a{
+  display: inline;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color: white;
+}
+
+.Facebook{
+ padding: 10px;
+}
+.Twitter{
+ padding: 10px;
+}
